@@ -3,7 +3,7 @@
 - I work as Security Analyst and I try to write some code to make my daily stuff easier.
 
 #### Certifications
-<a href="https://www.youracclaim.com/badges/756fcc3a-dc5a-435d-8bac-2cb209cf70c6/public_url" target="_blank"><img src="https://images.youracclaim.com/size/340x340/images/e3c9ad3c-b142-45ae-bb2b-2f19ff2b742a/PWK-OSCP-badge.png" class="cert" alt='OSCP' width="80px"></a>
-<a href="https://www.youracclaim.com/badges/07051d3d-3aee-416e-8bf8-7bee58a9810e/public_url" target="_blank"><img src="https://images.youracclaim.com/size/340x340/images/c8c413ce-fce6-4b61-89e6-6a1b9f1e358a/AWAE-OSWE-badge.png" class="cert" alt='OSWE' width="80px"></a>
-<a href="https://www.crest-approved.org/verify-a-certificate/index.html" target="_blank"><img src="https://www.crest-approved.org/wp-content/themes/crest-2018-wp-theme/images/logo.svg" class="cert" alt='CREST' width="70px"></a>
+<a href="https://www.credential.net/0f60cac6-c693-4fa5-a462-c71dcc4a873a#gs.ytt6k5" target="_blank"><img src="https://templates.images.credential.net/1644595125124808271808325719972.png" class="cert" alt='OSCP' width="100px"></a>
+<a href="https://www.credential.net/4f69a50b-5bd4-47d7-ae80-9cdfcb58fc5f#gs.ytt6a3" target="_blank"><img src="https://templates.images.credential.net/16446199223558558814915674399198.png" class="cert" alt='OSWE' width="100px"></a>
+<a href="https://www.credential.net/4f69a50b-5bd4-47d7-ae80-9cdfcb58fc5f#gs.ytt6a3" target="_blank"><img src="https://www.crest-approved.org/wp-content/uploads/2022/04/new-logo-1.png" class="cert" alt='CREST' width="70px"></a>
 <br>
