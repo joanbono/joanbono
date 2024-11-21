@@ -8,3 +8,7 @@
 <a href="https://www.credly.com/badges/d4f079f1-6931-4ce8-85fc-87d73e9eb0e6" target="_blank"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" class="cert" alt='CLF-C01' width="107px"></a>
 <a href="#" target="_blank"><img src="https://www.crest-approved.org/wp-content/uploads/2022/04/new-logo-1.png" class="cert" alt='CREST' width="70px"></a>
 <br>
+
+***
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=joanbono&hide_border=true)](https://git.io/streak-stats)
