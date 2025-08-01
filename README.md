@@ -6,9 +6,8 @@
 <a href="https://www.credly.com/badges/756fcc3a-dc5a-435d-8bac-2cb209cf70c6" target="_blank"><img src="https://templates.images.credential.net/1644595125124808271808325719972.png" class="cert" alt='OSCP' width="100px"></a>
 <a href="https://www.credly.com/badges/07051d3d-3aee-416e-8bf8-7bee58a9810e" target="_blank"><img src="https://templates.images.credential.net/16446199223558558814915674399198.png" class="cert" alt='OSWE' width="100px"></a>
 <a href="https://www.credly.com/badges/d4f079f1-6931-4ce8-85fc-87d73e9eb0e6" target="_blank"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" class="cert" alt='CLF-C01' width="107px"></a>
+<a href="https://www.credly.com/badges/cee2bcc0-e1c1-4473-bc00-60ea98012734" target="_blank"><img src="https://d2908q01vomqb2.cloudfront.net/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f/2025/07/17/aws_cq_genaiprac_jp_localization_badge.png" class="cert" alt='CLF-C01' width="107px"></a>
 <a href="#" target="_blank"><img src="https://www.crest-approved.org/wp-content/uploads/2022/04/new-logo-1.png" class="cert" alt='CREST' width="70px"></a>
 <br>
 
 ***
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=joanbono&hide_border=true)](https://git.io/streak-stats)
